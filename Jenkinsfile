@@ -8,7 +8,7 @@ pipeline {
         stage('Build') {
             agent {
                 docker{
-                    image 'gradle:6.8.3-jdk8-openj9'
+                    image 'gradle:gradle:6.8.3-jdk8'
                   
                 }
             }
