@@ -14,7 +14,7 @@ pipeline {
             }
             steps {
                 echo 'Building ....'
-                sh 'npm install'
+                sh 'cd android && chmod +x ./gradlew && ./gradlew assembleRelease'
             }
         }
     }
