@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Heading Test heading test snapshot 1`] = `
+<Text
+  allowFontScaling={false}
+  selectable={false}
+  style={
+    Object {
+      "color": "#1E2022",
+      "fontFamily": "Montserrat-Bold",
+      "fontSize": 16,
+      "letterSpacing": 1,
+      "lineHeight": 20,
+      "marginTop": 40,
+      "width": "100%",
+    }
+  }
+>
+  test
+</Text>
+`;

@@ -1,0 +1,21 @@
+import React, { useState } from 'react'
+import { View } from 'react-native'
+import { Upload } from '../../designSystem'
+
+const SplashScreen = () => {
+  const [files, setfiles] = useState([])
+  const onChange = (files) => {
+    setfiles(files)
+  }
+  return (
+    <View style={{backgroundColor:"#fff"}}>
+      <Upload
+        errorMessage="hhhhh"
+        allowedTypes ={["images"]}
+        label={"Logo de l'entreprise"}
+        value={files.length && files[0].name}
+        placeholder={"Logo de l'entreprise"}
+        onRightIconPress={(files) => onChange(files)} />
+    </View>)
+}
+export default SplashScreen

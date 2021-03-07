@@ -1,0 +1,303 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Test heading test snapshot 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FF8577",
+      "flexDirection": "row",
+      "height": 87,
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "paddingLeft": 15,
+          "paddingRight": 15,
+        },
+        Object {
+          "maxWidth": "33.333332%",
+        },
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={false}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        selectable={false}
+        style={
+          Object {
+            "color": "#FFFFFF",
+            "fontFamily": "Montserrat-Regular",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "height": 19,
+            "letterSpacing": 1,
+            "lineHeight": 18,
+          }
+        }
+      >
+        
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "paddingLeft": 15,
+          "paddingRight": 15,
+        },
+        Object {
+          "maxWidth": "33.333332%",
+        },
+      ]
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      selectable={false}
+      style={
+        Object {
+          "backgroundColor": "#FF8577",
+          "color": "#FFFFFF",
+          "fontFamily": "Roboto-Bold",
+          "fontSize": 20,
+          "fontWeight": "700",
+          "height": 23,
+          "letterSpacing": 1,
+          "lineHeight": 23,
+        }
+      }
+    >
+      Nouveau Contact
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "paddingLeft": 15,
+          "paddingRight": 15,
+        },
+        Object {
+          "maxWidth": "99.999996%",
+        },
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={false}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        selectable={false}
+        style={
+          Object {
+            "color": "#FFFFFF",
+            "fontFamily": "Montserrat-Regular",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "height": 19,
+            "letterSpacing": 1,
+            "lineHeight": 18,
+          }
+        }
+      >
+        
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Header Test test icons 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FF8577",
+      "flexDirection": "row",
+      "height": 87,
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "paddingLeft": 15,
+          "paddingRight": 15,
+        },
+        Object {
+          "maxWidth": "33.333332%",
+        },
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={false}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "color": "#FFFFFF",
+              "fontSize": 20,
+            },
+            undefined,
+            Object {
+              "fontFamily": "icomoon",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        ?
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "paddingLeft": 15,
+          "paddingRight": 15,
+        },
+        Object {
+          "maxWidth": "33.333332%",
+        },
+      ]
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      selectable={false}
+      style={
+        Object {
+          "backgroundColor": "#FF8577",
+          "color": "#FFFFFF",
+          "fontFamily": "Roboto-Bold",
+          "fontSize": 20,
+          "fontWeight": "700",
+          "height": 23,
+          "letterSpacing": 1,
+          "lineHeight": 23,
+        }
+      }
+    >
+      Home
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "paddingLeft": 15,
+          "paddingRight": 15,
+        },
+        Object {
+          "maxWidth": "99.999996%",
+        },
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      focusable={false}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "color": "#FFFFFF",
+              "fontSize": 20,
+            },
+            undefined,
+            Object {
+              "fontFamily": "icomoon",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+  </View>
+</View>
+`;

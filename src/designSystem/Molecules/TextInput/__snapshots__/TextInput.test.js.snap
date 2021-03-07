@@ -1,0 +1,343 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextInput tests test render multiliane text input snapshot 1`] = `
+<View
+  style={
+    Object {
+      "marginTop": 22,
+      "width": "100%",
+    }
+  }
+>
+  <TextInput
+    allowFontScaling={false}
+    autoCapitalize="sentences"
+    autoCorrect={false}
+    defaultValue=""
+    editable={true}
+    keyboardType="default"
+    multiline={true}
+    numberOfLines={5}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    placeholder="Placeholder"
+    placeholderTextColor="#ADB4BB"
+    rejectResponderTermination={true}
+    returnKeyType="done"
+    secureTextEntry={false}
+    selectTextOnFocus={false}
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#FDFDFD",
+          "borderColor": "#E5E5E5",
+          "borderRadius": 10,
+          "borderWidth": 1,
+          "color": "#FF8577",
+          "fontFamily": "Roboto-Bold",
+          "fontSize": 12,
+          "fontWeight": "700",
+          "height": 48,
+          "letterSpacing": 1,
+          "lineHeight": 14,
+          "padding": 18,
+          "width": "100%",
+        },
+        Object {
+          "height": 150,
+        },
+      ]
+    }
+    underlineColorAndroid="transparent"
+    value=""
+  />
+</View>
+`;
+
+exports[`TextInput tests test render password text input snapshot 1`] = `
+<View
+  style={
+    Object {
+      "marginTop": 22,
+      "width": "100%",
+    }
+  }
+>
+  <TextInput
+    allowFontScaling={false}
+    autoCapitalize="sentences"
+    autoCorrect={false}
+    defaultValue=""
+    editable={true}
+    keyboardType="default"
+    multiline={false}
+    numberOfLines={5}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    placeholder="Placeholder"
+    placeholderTextColor="#ADB4BB"
+    rejectResponderTermination={true}
+    returnKeyType="done"
+    secureTextEntry={true}
+    selectTextOnFocus={false}
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#FDFDFD",
+          "borderColor": "#E5E5E5",
+          "borderRadius": 10,
+          "borderWidth": 1,
+          "color": "#FF8577",
+          "fontFamily": "Roboto-Bold",
+          "fontSize": 12,
+          "fontWeight": "700",
+          "height": 48,
+          "letterSpacing": 1,
+          "lineHeight": 14,
+          "padding": 18,
+          "width": "100%",
+        },
+        null,
+      ]
+    }
+    underlineColorAndroid="transparent"
+    value=""
+  />
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+        "position": "absolute",
+        "right": 14,
+        "top": 14,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#ADB4BB",
+            "fontSize": 20,
+          },
+          undefined,
+          Object {
+            "fontFamily": "icomoon",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`TextInput tests test render text input snapshot 1`] = `
+<View
+  style={
+    Object {
+      "marginTop": 22,
+      "width": "100%",
+    }
+  }
+>
+  <TextInput
+    allowFontScaling={false}
+    autoCapitalize="sentences"
+    autoCorrect={false}
+    defaultValue=""
+    editable={true}
+    keyboardType="default"
+    multiline={false}
+    numberOfLines={5}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    placeholder="Placeholder"
+    placeholderTextColor="#ADB4BB"
+    rejectResponderTermination={true}
+    returnKeyType="done"
+    secureTextEntry={false}
+    selectTextOnFocus={false}
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#FDFDFD",
+          "borderColor": "#E5E5E5",
+          "borderRadius": 10,
+          "borderWidth": 1,
+          "color": "#FF8577",
+          "fontFamily": "Roboto-Bold",
+          "fontSize": 12,
+          "fontWeight": "700",
+          "height": 48,
+          "letterSpacing": 1,
+          "lineHeight": 14,
+          "padding": 18,
+          "width": "100%",
+        },
+        null,
+      ]
+    }
+    underlineColorAndroid="transparent"
+    value="test"
+  />
+</View>
+`;
+
+exports[`TextInput tests test render text input width right icon camera snapshot 1`] = `
+<View
+  style={
+    Object {
+      "marginTop": 22,
+      "width": "100%",
+    }
+  }
+>
+  <TextInput
+    allowFontScaling={false}
+    autoCapitalize="sentences"
+    autoCorrect={false}
+    defaultValue=""
+    editable={true}
+    keyboardType="default"
+    multiline={false}
+    numberOfLines={5}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    placeholder="Placeholder"
+    placeholderTextColor="#ADB4BB"
+    rejectResponderTermination={true}
+    returnKeyType="done"
+    secureTextEntry={false}
+    selectTextOnFocus={false}
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#FDFDFD",
+          "borderColor": "#E5E5E5",
+          "borderRadius": 10,
+          "borderWidth": 1,
+          "color": "#FF8577",
+          "fontFamily": "Roboto-Bold",
+          "fontSize": 12,
+          "fontWeight": "700",
+          "height": 48,
+          "letterSpacing": 1,
+          "lineHeight": 14,
+          "padding": 18,
+          "width": "100%",
+        },
+        null,
+      ]
+    }
+    underlineColorAndroid="transparent"
+    value=""
+  />
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+        "position": "absolute",
+        "right": 14,
+        "top": 14,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#ADB4BB",
+            "fontSize": 20,
+          },
+          undefined,
+          Object {
+            "fontFamily": "icomoon",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`TextInput tests test render text input with error message snapshot 1`] = `
+<View
+  style={
+    Object {
+      "marginTop": 22,
+      "width": "100%",
+    }
+  }
+>
+  <TextInput
+    allowFontScaling={false}
+    autoCapitalize="sentences"
+    autoCorrect={false}
+    defaultValue=""
+    editable={true}
+    keyboardType="default"
+    multiline={false}
+    numberOfLines={5}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    placeholder="Placeholder"
+    placeholderTextColor="#ADB4BB"
+    rejectResponderTermination={true}
+    returnKeyType="done"
+    secureTextEntry={false}
+    selectTextOnFocus={false}
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#FDFDFD",
+          "borderColor": "#E5E5E5",
+          "borderRadius": 10,
+          "borderWidth": 1,
+          "color": "#FF8577",
+          "fontFamily": "Roboto-Bold",
+          "fontSize": 12,
+          "fontWeight": "700",
+          "height": 48,
+          "letterSpacing": 1,
+          "lineHeight": 14,
+          "padding": 18,
+          "width": "100%",
+        },
+        null,
+      ]
+    }
+    underlineColorAndroid="transparent"
+    value=""
+  />
+</View>
+`;

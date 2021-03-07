@@ -1,0 +1,1354 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`button tests test large default button snapshot 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 10,
+      "display": "flex",
+      "elevation": 4,
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "marginVertical": 5,
+      "opacity": 1,
+      "padding": 22,
+      "shadowColor": "#000",
+      "shadowOffset": Object {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowOpacity": 0.2,
+      "shadowRadius": 5,
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    allowFontScaling={false}
+    selectable={false}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Roboto-Bold",
+          "letterSpacing": 1,
+          "textAlign": "center",
+        },
+        Object {
+          "fontSize": 16,
+          "lineHeight": 18,
+        },
+        Object {
+          "color": "#9C9C9C",
+        },
+      ]
+    }
+  >
+    test
+  </Text>
+</View>
+`;
+
+exports[`button tests test large default button snapshot with icon 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 10,
+      "display": "flex",
+      "elevation": 4,
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "marginVertical": 5,
+      "opacity": 1,
+      "padding": 22,
+      "shadowColor": "#000",
+      "shadowOffset": Object {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowOpacity": 0.2,
+      "shadowRadius": 5,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignSelf": "center",
+        "marginBottom": 5,
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#9C9C9C",
+            "fontSize": 20,
+          },
+          undefined,
+          Object {
+            "fontFamily": "icomoon",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <Text
+    allowFontScaling={false}
+    selectable={false}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Roboto-Bold",
+          "letterSpacing": 1,
+          "textAlign": "center",
+        },
+        Object {
+          "fontSize": 16,
+          "lineHeight": 18,
+        },
+        Object {
+          "color": "#9C9C9C",
+        },
+      ]
+    }
+  >
+    test
+  </Text>
+</View>
+`;
+
+exports[`button tests test large primary button snapshot 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#FF8577",
+      "borderRadius": 10,
+      "display": "flex",
+      "elevation": 4,
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "marginVertical": 5,
+      "opacity": 1,
+      "padding": 22,
+      "shadowColor": "#000",
+      "shadowOffset": Object {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowOpacity": 0.2,
+      "shadowRadius": 5,
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    allowFontScaling={false}
+    selectable={false}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Roboto-Bold",
+          "letterSpacing": 1,
+          "textAlign": "center",
+        },
+        Object {
+          "fontSize": 16,
+          "lineHeight": 18,
+        },
+        Object {
+          "color": "#FFFFFF",
+        },
+      ]
+    }
+  >
+    test
+  </Text>
+</View>
+`;
+
+exports[`button tests test large primary button snapshot with icon 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#FF8577",
+      "borderRadius": 10,
+      "display": "flex",
+      "elevation": 4,
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "marginVertical": 5,
+      "opacity": 1,
+      "padding": 22,
+      "shadowColor": "#000",
+      "shadowOffset": Object {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowOpacity": 0.2,
+      "shadowRadius": 5,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignSelf": "center",
+        "marginBottom": 5,
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#FFFFFF",
+            "fontSize": 20,
+          },
+          undefined,
+          Object {
+            "fontFamily": "icomoon",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <Text
+    allowFontScaling={false}
+    selectable={false}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Roboto-Bold",
+          "letterSpacing": 1,
+          "textAlign": "center",
+        },
+        Object {
+          "fontSize": 16,
+          "lineHeight": 18,
+        },
+        Object {
+          "color": "#FFFFFF",
+        },
+      ]
+    }
+  >
+    test
+  </Text>
+</View>
+`;
+
+exports[`button tests test large transparent button snapshot 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "transparent",
+      "borderRadius": 10,
+      "display": "flex",
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "marginVertical": 5,
+      "opacity": 1,
+      "padding": 22,
+      "shadowRadius": 5,
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    allowFontScaling={false}
+    selectable={false}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Roboto-Bold",
+          "letterSpacing": 1,
+          "textAlign": "center",
+        },
+        Object {
+          "fontSize": 16,
+          "lineHeight": 18,
+        },
+        Object {
+          "color": "#FF8577",
+        },
+      ]
+    }
+  >
+    test
+  </Text>
+</View>
+`;
+
+exports[`button tests test large transparent button snapshot with icon 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "transparent",
+      "borderRadius": 10,
+      "display": "flex",
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "marginVertical": 5,
+      "opacity": 1,
+      "padding": 22,
+      "shadowRadius": 5,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignSelf": "center",
+        "marginBottom": 5,
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#FF8577",
+            "fontSize": 20,
+          },
+          undefined,
+          Object {
+            "fontFamily": "icomoon",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <Text
+    allowFontScaling={false}
+    selectable={false}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Roboto-Bold",
+          "letterSpacing": 1,
+          "textAlign": "center",
+        },
+        Object {
+          "fontSize": 16,
+          "lineHeight": 18,
+        },
+        Object {
+          "color": "#FF8577",
+        },
+      ]
+    }
+  >
+    test
+  </Text>
+</View>
+`;
+
+exports[`button tests test normal default button snapshot 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 10,
+      "display": "flex",
+      "elevation": 4,
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "marginVertical": 5,
+      "opacity": 1,
+      "padding": 18,
+      "shadowColor": "#000",
+      "shadowOffset": Object {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowOpacity": 0.2,
+      "shadowRadius": 5,
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    allowFontScaling={false}
+    selectable={false}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Roboto-Bold",
+          "letterSpacing": 1,
+          "textAlign": "center",
+        },
+        Object {
+          "fontSize": 14,
+          "lineHeight": 16,
+        },
+        Object {
+          "color": "#9C9C9C",
+        },
+      ]
+    }
+  >
+    test
+  </Text>
+</View>
+`;
+
+exports[`button tests test normal default button snapshot with icon 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 10,
+      "display": "flex",
+      "elevation": 4,
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "marginVertical": 5,
+      "opacity": 1,
+      "padding": 18,
+      "shadowColor": "#000",
+      "shadowOffset": Object {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowOpacity": 0.2,
+      "shadowRadius": 5,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignSelf": "center",
+        "marginBottom": 5,
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#9C9C9C",
+            "fontSize": 20,
+          },
+          undefined,
+          Object {
+            "fontFamily": "icomoon",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <Text
+    allowFontScaling={false}
+    selectable={false}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Roboto-Bold",
+          "letterSpacing": 1,
+          "textAlign": "center",
+        },
+        Object {
+          "fontSize": 14,
+          "lineHeight": 16,
+        },
+        Object {
+          "color": "#9C9C9C",
+        },
+      ]
+    }
+  >
+    test
+  </Text>
+</View>
+`;
+
+exports[`button tests test normal primary button snapshot 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#FF8577",
+      "borderRadius": 10,
+      "display": "flex",
+      "elevation": 4,
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "marginVertical": 5,
+      "opacity": 1,
+      "padding": 18,
+      "shadowColor": "#000",
+      "shadowOffset": Object {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowOpacity": 0.2,
+      "shadowRadius": 5,
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    allowFontScaling={false}
+    selectable={false}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Roboto-Bold",
+          "letterSpacing": 1,
+          "textAlign": "center",
+        },
+        Object {
+          "fontSize": 14,
+          "lineHeight": 16,
+        },
+        Object {
+          "color": "#FFFFFF",
+        },
+      ]
+    }
+  >
+    test
+  </Text>
+</View>
+`;
+
+exports[`button tests test normal primary button snapshot with icon 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#FF8577",
+      "borderRadius": 10,
+      "display": "flex",
+      "elevation": 4,
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "marginVertical": 5,
+      "opacity": 1,
+      "padding": 18,
+      "shadowColor": "#000",
+      "shadowOffset": Object {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowOpacity": 0.2,
+      "shadowRadius": 5,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignSelf": "center",
+        "marginBottom": 5,
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#FFFFFF",
+            "fontSize": 20,
+          },
+          undefined,
+          Object {
+            "fontFamily": "icomoon",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <Text
+    allowFontScaling={false}
+    selectable={false}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Roboto-Bold",
+          "letterSpacing": 1,
+          "textAlign": "center",
+        },
+        Object {
+          "fontSize": 14,
+          "lineHeight": 16,
+        },
+        Object {
+          "color": "#FFFFFF",
+        },
+      ]
+    }
+  >
+    test
+  </Text>
+</View>
+`;
+
+exports[`button tests test normal transparent button snapshot 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "transparent",
+      "borderRadius": 10,
+      "display": "flex",
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "marginVertical": 5,
+      "opacity": 1,
+      "padding": 18,
+      "shadowRadius": 5,
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    allowFontScaling={false}
+    selectable={false}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Roboto-Bold",
+          "letterSpacing": 1,
+          "textAlign": "center",
+        },
+        Object {
+          "fontSize": 14,
+          "lineHeight": 16,
+        },
+        Object {
+          "color": "#FF8577",
+        },
+      ]
+    }
+  >
+    test
+  </Text>
+</View>
+`;
+
+exports[`button tests test normal transparent button snapshot with icon 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "transparent",
+      "borderRadius": 10,
+      "display": "flex",
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "marginVertical": 5,
+      "opacity": 1,
+      "padding": 18,
+      "shadowRadius": 5,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignSelf": "center",
+        "marginBottom": 5,
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#FF8577",
+            "fontSize": 20,
+          },
+          undefined,
+          Object {
+            "fontFamily": "icomoon",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <Text
+    allowFontScaling={false}
+    selectable={false}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Roboto-Bold",
+          "letterSpacing": 1,
+          "textAlign": "center",
+        },
+        Object {
+          "fontSize": 14,
+          "lineHeight": 16,
+        },
+        Object {
+          "color": "#FF8577",
+        },
+      ]
+    }
+  >
+    test
+  </Text>
+</View>
+`;
+
+exports[`button tests test small default button snapshot 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 10,
+      "display": "flex",
+      "elevation": 4,
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "marginVertical": 5,
+      "opacity": 1,
+      "padding": 14,
+      "shadowColor": "#000",
+      "shadowOffset": Object {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowOpacity": 0.2,
+      "shadowRadius": 5,
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    allowFontScaling={false}
+    selectable={false}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Roboto-Bold",
+          "letterSpacing": 1,
+          "textAlign": "center",
+        },
+        Object {
+          "fontSize": 12,
+          "lineHeight": 14,
+        },
+        Object {
+          "color": "#9C9C9C",
+        },
+      ]
+    }
+  >
+    test
+  </Text>
+</View>
+`;
+
+exports[`button tests test small default button snapshot with icon 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 10,
+      "display": "flex",
+      "elevation": 4,
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "marginVertical": 5,
+      "opacity": 1,
+      "padding": 14,
+      "shadowColor": "#000",
+      "shadowOffset": Object {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowOpacity": 0.2,
+      "shadowRadius": 5,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignSelf": "center",
+        "marginBottom": 5,
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#9C9C9C",
+            "fontSize": 20,
+          },
+          undefined,
+          Object {
+            "fontFamily": "icomoon",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <Text
+    allowFontScaling={false}
+    selectable={false}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Roboto-Bold",
+          "letterSpacing": 1,
+          "textAlign": "center",
+        },
+        Object {
+          "fontSize": 12,
+          "lineHeight": 14,
+        },
+        Object {
+          "color": "#9C9C9C",
+        },
+      ]
+    }
+  >
+    test
+  </Text>
+</View>
+`;
+
+exports[`button tests test small primary button snapshot 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#FF8577",
+      "borderRadius": 10,
+      "display": "flex",
+      "elevation": 4,
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "marginVertical": 5,
+      "opacity": 1,
+      "padding": 14,
+      "shadowColor": "#000",
+      "shadowOffset": Object {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowOpacity": 0.2,
+      "shadowRadius": 5,
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    allowFontScaling={false}
+    selectable={false}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Roboto-Bold",
+          "letterSpacing": 1,
+          "textAlign": "center",
+        },
+        Object {
+          "fontSize": 12,
+          "lineHeight": 14,
+        },
+        Object {
+          "color": "#FFFFFF",
+        },
+      ]
+    }
+  >
+    test
+  </Text>
+</View>
+`;
+
+exports[`button tests test small primary button snapshot with icon 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#FF8577",
+      "borderRadius": 10,
+      "display": "flex",
+      "elevation": 4,
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "marginVertical": 5,
+      "opacity": 1,
+      "padding": 14,
+      "shadowColor": "#000",
+      "shadowOffset": Object {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowOpacity": 0.2,
+      "shadowRadius": 5,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignSelf": "center",
+        "marginBottom": 5,
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#FFFFFF",
+            "fontSize": 20,
+          },
+          undefined,
+          Object {
+            "fontFamily": "icomoon",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <Text
+    allowFontScaling={false}
+    selectable={false}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Roboto-Bold",
+          "letterSpacing": 1,
+          "textAlign": "center",
+        },
+        Object {
+          "fontSize": 12,
+          "lineHeight": 14,
+        },
+        Object {
+          "color": "#FFFFFF",
+        },
+      ]
+    }
+  >
+    test
+  </Text>
+</View>
+`;
+
+exports[`button tests test small transparent button snapshot 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "transparent",
+      "borderRadius": 10,
+      "display": "flex",
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "marginVertical": 5,
+      "opacity": 1,
+      "padding": 14,
+      "shadowRadius": 5,
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    allowFontScaling={false}
+    selectable={false}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Roboto-Bold",
+          "letterSpacing": 1,
+          "textAlign": "center",
+        },
+        Object {
+          "fontSize": 12,
+          "lineHeight": 14,
+        },
+        Object {
+          "color": "#FF8577",
+        },
+      ]
+    }
+  >
+    test
+  </Text>
+</View>
+`;
+
+exports[`button tests test small transparent button snapshot with icon 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "transparent",
+      "borderRadius": 10,
+      "display": "flex",
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "marginVertical": 5,
+      "opacity": 1,
+      "padding": 14,
+      "shadowRadius": 5,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignSelf": "center",
+        "marginBottom": 5,
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#FF8577",
+            "fontSize": 20,
+          },
+          undefined,
+          Object {
+            "fontFamily": "icomoon",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <Text
+    allowFontScaling={false}
+    selectable={false}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Roboto-Bold",
+          "letterSpacing": 1,
+          "textAlign": "center",
+        },
+        Object {
+          "fontSize": 12,
+          "lineHeight": 14,
+        },
+        Object {
+          "color": "#FF8577",
+        },
+      ]
+    }
+  >
+    test
+  </Text>
+</View>
+`;

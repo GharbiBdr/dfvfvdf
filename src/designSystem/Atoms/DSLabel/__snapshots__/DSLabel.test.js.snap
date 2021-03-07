@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DSLabel tests text Label Snapshot 1`] = `
+<Text
+  allowFontScaling={false}
+  selectable={false}
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "color": "#ADB4BB",
+      "fontFamily": "Roboto-Bold",
+      "fontSize": 12,
+      "fontWeight": "500",
+      "height": 14,
+      "left": 12,
+      "letterSpacing": 1,
+      "lineHeight": 14,
+      "paddingHorizontal": 8,
+      "position": "absolute",
+      "top": -5,
+    }
+  }
+>
+  test
+</Text>
+`;

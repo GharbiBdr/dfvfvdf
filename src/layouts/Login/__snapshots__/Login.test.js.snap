@@ -1,0 +1,387 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login tests test render Login 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "display": "flex",
+      "flex": 1,
+      "flexDirection": "column",
+      "padding": 20,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#FF8577",
+            "fontSize": 14,
+          },
+          undefined,
+          Object {
+            "fontFamily": "icomoon",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "flexDirection": "column",
+        "height": 1334,
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "height": 2,
+            },
+            Object {
+              "backgroundColor": "#E5E5E5",
+            },
+            Object {
+              "width": 124,
+            },
+          ]
+        }
+      />
+    </View>
+    <View>
+      <Text
+        allowFontScaling={false}
+        selectable={false}
+        style={
+          Object {
+            "color": "#1E2022",
+            "fontFamily": "Montserrat-Bold",
+            "fontSize": 16,
+            "letterSpacing": 1,
+            "lineHeight": 20,
+            "marginBottom": 20,
+            "marginTop": 26,
+            "width": "100%",
+          }
+        }
+      >
+        Espace de connexion
+      </Text>
+      <View>
+        <View
+          style={
+            Object {
+              "marginTop": 22,
+              "width": "100%",
+            }
+          }
+        >
+          <TextInput
+            allowFontScaling={false}
+            autoCapitalize="sentences"
+            autoCorrect={false}
+            defaultValue=""
+            editable={true}
+            keyboardType="email-address"
+            multiline={false}
+            numberOfLines={5}
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="Email professionnel"
+            placeholderTextColor="#ADB4BB"
+            rejectResponderTermination={true}
+            returnKeyType="done"
+            secureTextEntry={false}
+            selectTextOnFocus={false}
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "#FDFDFD",
+                  "borderColor": "#E5E5E5",
+                  "borderRadius": 10,
+                  "borderWidth": 1,
+                  "color": "#FF8577",
+                  "fontFamily": "Roboto-Bold",
+                  "fontSize": 12,
+                  "fontWeight": "700",
+                  "height": 48,
+                  "letterSpacing": 1,
+                  "lineHeight": 14,
+                  "padding": 18,
+                  "width": "100%",
+                },
+                null,
+              ]
+            }
+            underlineColorAndroid="transparent"
+            value=""
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "marginTop": 22,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "marginTop": 22,
+                "width": "100%",
+              }
+            }
+          >
+            <TextInput
+              allowFontScaling={false}
+              autoCapitalize="sentences"
+              autoCorrect={false}
+              defaultValue=""
+              editable={true}
+              keyboardType="default"
+              multiline={false}
+              numberOfLines={5}
+              onBlur={[Function]}
+              onChangeText={[Function]}
+              onFocus={[Function]}
+              placeholder="Mot de passe"
+              placeholderTextColor="#ADB4BB"
+              rejectResponderTermination={true}
+              returnKeyType="done"
+              secureTextEntry={true}
+              selectTextOnFocus={false}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#FDFDFD",
+                    "borderColor": "#E5E5E5",
+                    "borderRadius": 10,
+                    "borderWidth": 1,
+                    "color": "#FF8577",
+                    "fontFamily": "Roboto-Bold",
+                    "fontSize": 12,
+                    "fontWeight": "700",
+                    "height": 48,
+                    "letterSpacing": 1,
+                    "lineHeight": 14,
+                    "padding": 18,
+                    "width": "100%",
+                  },
+                  null,
+                ]
+              }
+              underlineColorAndroid="transparent"
+              value=""
+            />
+            <View
+              accessible={true}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                  "position": "absolute",
+                  "right": 14,
+                  "top": 14,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": "#ADB4BB",
+                      "fontSize": 20,
+                    },
+                    undefined,
+                    Object {
+                      "fontFamily": "icomoon",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+              >
+                
+              </Text>
+            </View>
+          </View>
+          <Text
+            allowFontScaling={false}
+            selectable={false}
+            style={
+              Object {
+                "alignSelf": "flex-end",
+                "color": "#9C9C9C",
+                "fontFamily": "Roboto-Bold",
+                "fontSize": 12,
+                "marginTop": 14,
+              }
+            }
+          >
+            Mot de passe oublié
+          </Text>
+        </View>
+        <View>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "#FF8577",
+                "borderRadius": 10,
+                "display": "flex",
+                "elevation": 4,
+                "flexDirection": "column",
+                "justifyContent": "center",
+                "marginVertical": 5,
+                "opacity": 1,
+                "padding": 18,
+                "shadowColor": "#000",
+                "shadowOffset": Object {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.2,
+                "shadowRadius": 5,
+                "width": "100%",
+              }
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              selectable={false}
+              style={
+                Array [
+                  Object {
+                    "fontFamily": "Roboto-Bold",
+                    "letterSpacing": 1,
+                    "textAlign": "center",
+                  },
+                  Object {
+                    "fontSize": 14,
+                    "lineHeight": 16,
+                  },
+                  Object {
+                    "color": "#FFFFFF",
+                  },
+                ]
+              }
+            >
+              Se connecter
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "transparent",
+                "borderRadius": 10,
+                "display": "flex",
+                "flexDirection": "column",
+                "justifyContent": "center",
+                "marginVertical": 5,
+                "opacity": 1,
+                "padding": 18,
+                "shadowRadius": 5,
+                "width": "100%",
+              }
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              selectable={false}
+              style={
+                Array [
+                  Object {
+                    "fontFamily": "Roboto-Bold",
+                    "letterSpacing": 1,
+                    "textAlign": "center",
+                  },
+                  Object {
+                    "fontSize": 14,
+                    "lineHeight": 16,
+                  },
+                  Object {
+                    "color": "#FF8577",
+                  },
+                ]
+              }
+            >
+              S’inscrire
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
